@@ -9,8 +9,8 @@
 
 - 👯 I’m looking to collaborate on **Frontend & Backend Projects**
    
-- 👨‍💻 All of my projects are available at [https://github.com/ImmaqIntroductionToWeb](https://github.com/ImmaqIntroductionToWeb)
-
+- 👨‍💻 All of my projects are available at  [github.com/Immaculate-Ncane](https://github.com/Immaculate-Ncane)
+  
 - 📫 How to reach me **sincane05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
